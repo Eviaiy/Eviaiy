@@ -12,11 +12,11 @@ Welcome to my GitHub profile!
   
 ## 🛠 Skills
 
-- Languages: Python, R, SQL
+- Languages: Python, C, R, SQL
 - Machine Learning/Deep Learning Frameworks: TensorFlow, PyTorch, Scikit-Learn
 - Data Visualization: Matplotlib, Seaborn, Plotly
-- Data Manipulation: Pandas, NumPy
-- Generative AI Tools and Libraries: GPT (OpenAI), DALL-E, Hugging Face Transformers
+- Data Manipulation: Pandas, NumPy, NLTK, spaCy, TextBlob
+- Generative AI Tools and Libraries: LangChain, GPT (OpenAI), Mistral, DALL-E, Hugging Face Transformers
 - Other Technologies: Docker, Git, Jupyter
 
 ## 📈 My GitHub Stats
