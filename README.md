@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
 - Machine Learning/Deep Learning Frameworks: TensorFlow, PyTorch, Scikit-Learn
 - Data Visualization: Matplotlib, Seaborn, Plotly
 - Data Manipulation: Pandas, NumPy, NLTK, spaCy, TextBlob
-- Generative AI Tools and Libraries: LangChain, GPT (OpenAI), Mistral, DALL-E, Hugging Face Transformers
+- Generative AI Tools and Libraries: LangChain, Autogen, Hugging Face Transformers
 - Other Technologies: Docker, Git, Jupyter
 
 ## 📈 My GitHub Stats
